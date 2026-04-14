@@ -1,5 +1,5 @@
-#indef LIBNOSTD_HPP
-#define LIBNOSTR_HPP
+#ifndef LIBNOSTD_HPP
+#define LIBNOSTD_HPP
 
 #include <string>
 
