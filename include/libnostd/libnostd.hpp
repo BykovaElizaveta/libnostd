@@ -3,6 +3,11 @@
 
 #include <string>
 
+/**
+ *  @brief    Выводит строку в отдельной строке
+ * 
+ * @param[in] string Строка теста
+ * /
 void println(const std::string str);
 
 #endif
