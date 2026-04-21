@@ -1,5 +1,5 @@
 # libnostd
-## A Powerful C++ Library for High-Perfomance Computing
+## A Powerful C++ Library for High-Performance Computing
 <p>
 <img src="https://img.shields.io/github/languages/top/BykovaElizaveta/libnostd">
 <img src="https://img.shields.io/github/languages/count/BykovaElizaveta/libnostd">
